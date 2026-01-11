@@ -49,9 +49,21 @@ Currently working as *Associate Software Engineer L1 @ Bebo Technologies*.
   </a>
 </p> -->
 
-# Test
+name: Generate GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=VisheshTalwar999)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VisheshTalwar999)
-![Streak](https://streak-stats.demolab.com?user=VisheshTalwar999)
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate GitHub Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: VisheshTalwar999
+          output: assets/stats.svg
