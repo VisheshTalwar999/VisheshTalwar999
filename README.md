@@ -36,6 +36,17 @@ Currently working as *Associate Software Engineer L1 @ Bebo Technologies*.
 - Production issues reduced by *40%*
 
 ---
+### 📊 GitHub Activity
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=VisheshTalwar999&show_icons=true&count_private=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VisheshTalwar999&layout=compact" height="165"/>
+</p>
+
+### 🔥 Consistency
+<p>
+  <img src="https://streak-stats.demolab.com?user=VisheshTalwar999" />
+</p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6FA4FC&height=90&section=footer"/>
 
