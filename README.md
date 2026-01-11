@@ -1,8 +1,8 @@
 # 👨‍💻 Vishesh Talwar | Backend Java Developer
 ### Transforming complex requirements into scalable backend solutions.
 
-- [cite_start]🔭 **Current Role:** Associate Software Engineer L1 at Bebo Technologies[cite: 18].
-- [cite_start]⚡ **Key Achievement:** Optimized API performance by 30% and automated deployment flows to reduce release effort by 70%.
+- 🔭 **Current Role:** Associate Software Engineer L1 at Bebo Technologies[cite: 18].
+- [cite_start]⚡ **Key Achievement:** Optimized API performance by 30% and automated deployment flows to reduce release effort by 70%[cite: 4].
 - [cite_start]🎓 **Education:** B.Tech in IT from DAVIET (CGPA: 8.28/10)[cite: 7, 8].
 - [cite_start]💬 **Ask me about:** Spring Boot, Microservices, SQL Optimization, and ServiceNow Automation[cite: 11, 13, 30].
 
