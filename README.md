@@ -1,6 +1,16 @@
-# 👋 Hi, I'm Vishesh Talwar
+<h1 align="left">Hi, I'm Vishesh Talwar 👋</h1>
 
-### Backend Java Developer | Spring Boot | Microservices
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?
+  font=Fira+Code&
+  size=22&
+  pause=1000&
+  color=58A6FF&
+  width=600&
+  lines=Backend+Java+Developer;
+  Spring+Boot+%7C+Microservices;
+  Clean+Architecture+%7C+Performance+Focused" />
+</p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vishesh-talwar-6895b725b">LinkedIn</a> •
@@ -9,64 +19,45 @@
 
 ---
 
-## ⚙️ What I Do
-I build **scalable backend systems** with a strong focus on:
-- clean architecture
-- performance optimization
-- automation & reliability
-
-Currently working as **Associate Software Engineer L1 at Bebo Technologies**.
+## 🚀 About Me
+- Backend-focused developer working with **Java & Spring Boot**
+- Associate Software Engineer L1 at **Bebo Technologies**
+- Interested in **scalable systems**, **automation**, and **performance tuning**
 
 ---
 
-## 🧠 Tech Stack
+## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,aws,linux,git,python" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,aws,linux,git,python&perline=8" />
 </p>
 
 ---
 
-## 📊 GitHub Activity (Fixed & Working)
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VisheshTalwar999&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VisheshTalwar999&theme=github-dark&hide_border=true" height="160"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VisheshTalwar999&theme=github-dark&hide_border=true"/>
-</p>
+## ⚡ What I’ve Built
+- RESTful microservices using **Spring Boot**
+- Optimized APIs improving response time by **30%**
+- Automated deployments reducing release effort by **70%**
+- KPI automation saving **10+ hours/week**
 
 ---
 
-## 🚀 Impact Highlights
-- Improved backend API performance by **30%**
-- Reduced deployment effort by **70%** via automation
-- Built production-grade REST APIs using **Spring Boot**
-- Automated KPI dashboards saving **10 hrs/week**
-
----
-
-## 🧩 Selected Work
+## 🧩 Projects
 
 **PRISMA**
-- RESTful microservices + UNIX deployment automation
-- Reduced production errors by **40%**
+- Backend microservices + UNIX automation
+- Reduced production issues by **40%**
 
 **eWMS**
-- MySQL schema design & API development
-- Supported **1000+ seat records**
+- MySQL schema design & REST APIs
+- Managed **1000+ seat records**
 - Improved utilization by **25%**
 
 ---
 
-## 📌 Philosophy
-> *“Simple code scales better than clever code.”*
+## 🧠 Engineering Mindset
+> *Build simple systems first. Optimize where it matters.*
 
 ---
 
-⭐ If you care about **clean backend design, performance, and automation**, you’ll like my work.
+⭐ Thanks for visiting — feel free to explore my repositories.
