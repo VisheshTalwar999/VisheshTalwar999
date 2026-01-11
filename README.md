@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6FA4FC&width=650&lines=Backend+Java+Developer;Spring+Boot+%7C+Microservices;Building+things+that+actually+scale" />
 </p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=VisheshTalwar999&label=Profile%20views&color=6FA4FC&style=flat" />
+</p>
+
 ---
 
 ### 👨‍💻 About
@@ -29,6 +33,29 @@ Currently working as **Associate Software Engineer L1 @ Bebo Technologies**.
 
 ---
 
+### 🧠 Current Focus Areas
+- Designing **low-latency backend systems**
+- Writing **clean, testable Spring Boot code**
+- Improving **SQL performance & indexing**
+- Learning **system design & scalability**
+
+---
+
+### 📊 GitHub Activity
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=VisheshTalwar999&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VisheshTalwar999&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+### 🔥 Consistency
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VisheshTalwar999&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ### ✨ A Few Wins
 - APIs made **30% faster**
 - Deployments made **70% easier**
@@ -36,8 +63,6 @@ Currently working as **Associate Software Engineer L1 @ Bebo Technologies**.
 - Production issues reduced by **40%**
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6FA4FC&height=90&section=footer"/>
 
 ### 🤝 Let’s Connect
 <p align="left">
@@ -48,3 +73,5 @@ Currently working as **Associate Software Engineer L1 @ Bebo Technologies**.
     <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6FA4FC&height=90&section=footer"/>
