@@ -1,4 +1,4 @@
-<!-- <h1 align="left">Hi 👋, I'm Vishesh Talwar</h1>
+<h1 align="left">Hi 👋, I'm Vishesh Talwar</h1>
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6FA4FC&width=650&lines=Backend+Java+Developer;Spring+Boot+%7C+Microservices;Building+things+that+actually+scale" />
@@ -35,7 +35,7 @@ Currently working as *Associate Software Engineer L1 @ Bebo Technologies*.
 - Automation saving *10+ hrs/week*
 - Production issues reduced by *40%*
 
-
+---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6FA4FC&height=90&section=footer"/>
 
@@ -47,23 +47,4 @@ Currently working as *Associate Software Engineer L1 @ Bebo Technologies*.
   <a href="mailto:vishesh15102003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail"/>
   </a>
-</p> -->
-
-name: Generate GitHub Stats
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Generate GitHub Stats
-        uses: anuraghazra/github-readme-stats@master
-        with:
-          username: VisheshTalwar999
-          output: assets/stats.svg
+</p>
